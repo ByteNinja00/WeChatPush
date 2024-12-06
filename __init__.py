@@ -1,4 +1,4 @@
-from WeiChat.Message import(
+from .Message import(
     TextMessage
 )
 
